@@ -5,6 +5,8 @@ The material introduces different types of data visualizations, which scenarios 
 
 To view the presentation, download the .html file and open it with Google Chrome or other compatible software.
 
+The code mentioned in the .html file can be run with the .Rmd file.
+
 Created by Varchasvi Vedula for DataRes.
 
 References:
